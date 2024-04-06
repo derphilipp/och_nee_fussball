@@ -1,0 +1,284 @@
+{
+  "Vereine": [
+      {
+          "1. FC Heidenheim": [
+              "FCH"
+          ]
+      },
+      {
+          "1. FC Kaiserslautern": [
+              "FCK"
+          ]
+      },
+      {
+          "1. FC Köln": [
+              "KOE"
+          ]
+      },
+      {
+          "1. FC Magdeburg": [
+              "FCM"
+          ]
+      },
+      {
+          "1. FC Nürnberg": [
+              "FCN"
+          ]
+      },
+      {
+          "1. FC Saarbrücken": [
+              "FCS"
+          ]
+      },
+      {
+          "1. FC Union Berlin": [
+              "FCU"
+          ]
+      },
+      {
+          "1. FSV Mainz 05": [
+              "M05"
+          ]
+      },
+      {
+          "Arminia Bielefeld": [
+              "DSC"
+          ]
+      },
+      {
+          "Bayer 04 Leverkusen": [
+              "B04"
+          ]
+      },
+      {
+          "Borussia Dortmund II": [
+              "BVB"
+          ]
+      },
+      {
+          "Borussia Dortmund": [
+              "BVB"
+          ]
+      },
+      {
+          "Borussia Mönchengladbach": [
+              "BMG"
+          ]
+      },
+      {
+          "Dynamo Dresden": [
+              "SGD"
+          ]
+      },
+      {
+          "Eintracht Braunschweig": [
+              "EBS"
+          ]
+      },
+      {
+          "Eintracht Frankfurt": [
+              "SGE"
+          ]
+      },
+      {
+          "FC Augsburg": [
+              "FCA"
+          ]
+      },
+      {
+          "FC Bayern München": [
+              "FCB"
+          ]
+      },
+      {
+          "FC Erzgebirge Aue": [
+              "AUE"
+          ]
+      },
+      {
+          "FC Ingolstadt 04": [
+              "FCI"
+          ]
+      },
+      {
+          "FC Schalke 04": [
+              "S04"
+          ]
+      },
+      {
+          "FC St. Pauli": [
+              "STP"
+          ]
+      },
+      {
+          "FC Viktoria Köln": [
+              "VCO"
+          ]
+      },
+      {
+          "Fortuna Düsseldorf": [
+              "F95"
+          ]
+      },
+      {
+          "Hallescher FC": [
+              "HFC"
+          ]
+      },
+      {
+          "Hamburger SV": [
+              "HSV"
+          ]
+      },
+      {
+          "Hannover 96": [
+              "H96"
+          ]
+      },
+      {
+          "Hansa Rostock": [
+              "HRO"
+          ]
+      },
+      {
+          "Hertha BSC": [
+              "BSC"
+          ]
+      },
+      {
+          "Holstein Kiel": [
+              "KSV"
+          ]
+      },
+      {
+          "Karlsruher SC": [
+              "KSC"
+          ]
+      },
+      {
+          "MSV Duisburg": [
+              "MSV"
+          ]
+      },
+      {
+          "Preußen Münster": [
+              "SCP"
+          ]
+      },
+      {
+          "RB Leipzig": [
+              "RBL"
+          ]
+      },
+      {
+          "Rot-Weiss Essen": [
+              "RWE"
+          ]
+      },
+      {
+          "SC Freiburg II": [
+              "SCF"
+          ]
+      },
+      {
+          "SC Freiburg": [
+              "SCF"
+          ]
+      },
+      {
+          "SC Paderborn 07": [
+              "SCP"
+          ]
+      },
+      {
+          "SC Verl": [
+              "SCV"
+          ]
+      },
+      {
+          "SSV Jahn Regensburg": [
+              "SSV"
+          ]
+      },
+      {
+          "SSV Ulm 1846": [
+              "SSV"
+          ]
+      },
+      {
+          "SV Darmstadt 98": [
+              "D98"
+          ]
+      },
+      {
+          "SV Elversberg": [
+              "ELV"
+          ]
+      },
+      {
+          "SV Sandhausen": [
+              "SVS"
+          ]
+      },
+      {
+          "SV Waldhof Mannheim": [
+              "SVM"
+          ]
+      },
+      {
+          "SV Wehen Wiesbaden": [
+              "SVW"
+          ]
+      },
+      {
+          "SpVgg Greuther Fürth": [
+              "SGF"
+          ]
+      },
+      {
+          "SpVgg Unterhaching": [
+              "SVU"
+          ]
+      },
+      {
+          "TSG 1899 Hoffenheim": [
+              "TSG"
+          ]
+      },
+      {
+          "TSV 1860 München": [
+              "TSV"
+          ]
+      },
+      {
+          "VfB Lübeck": [
+              "VFL"
+          ]
+      },
+      {
+          "VfB Stuttgart": [
+              "VFB"
+          ]
+      },
+      {
+          "VfL Bochum": [
+              "BOC"
+          ]
+      },
+      {
+          "VfL Osnabrück": [
+              "VFL"
+          ]
+      },
+      {
+          "VfL Wolfsburg": [
+              "WOB"
+          ]
+      },
+      {
+          "Werder Bremen": [
+              "SVW"
+          ]
+      }
+  ]
+}
