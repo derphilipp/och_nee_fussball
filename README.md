@@ -4,7 +4,7 @@ Hier gibt es eine Liste aller potentiellen Paarungen (Hashtags) der Deutschen Fu
 
 [Liste der Paarungen](https://github.com/derphilipp/och_nee_fussball/blob/paarungen/paarungen.txt)
 
-Automatisiertes anlegen der Listen?
+## Geht automatisiertes anlegen der Listen?
 
 Ja, geht:
 
@@ -16,3 +16,7 @@ Ja, geht:
 
 Jetzt hast Du eine Liste von Filtern, mit den Namen `Och_nee_Fussball_000` und aufsteigend
 
+## Das ist ja alles super trashig und so!
+
+Stimmt. 
+Ich hab keine Lust mich mehr mit Fussball zu beschäftigen - und daher auch dem Projekt hier. Wenn Du Lust hast etwas zu verbessern oder beizutragen - super, immer gerne, die PR sind offen und ich freue mich.
