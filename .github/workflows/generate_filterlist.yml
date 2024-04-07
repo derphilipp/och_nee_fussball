@@ -32,4 +32,4 @@ jobs:
           git checkout -b paarungen
           git add paarungen.txt
           git commit -m "Adds Paarungen.txt"
-          git push origin paarungen
+          git push origin paarungen --force
