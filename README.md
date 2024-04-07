@@ -8,7 +8,7 @@ Hier gibt es eine Liste aller potentiellen Paarungen (Hashtags) der Deutschen Fu
 
 Ja, geht:
 
-1. Filtertool hier installieren: https://github.com/hiway/mastodon-filter ; Es muss dann in `$PATH` vorhanden sein / ausführbar sien
+1. Filtertool hier installieren: https://github.com/hiway/mastodon-filter ; Es muss dann in `$PATH` vorhanden sein / ausführbar sein
 2. [Liste der Paarungen](https://github.com/derphilipp/och_nee_fussball/blob/paarungen/paarungen.txt) herunterladen und als paarungen.txt abspeichern (alternativ: selbst erstellen)
 3. Der Anleitung unter https://github.com/hiway/mastodon-filter nach einen Zugangsschlüssel erhalten
 4. Der Anleitung unter https://github.com/hiway/mastodon-filter nach das Tool konfiguieren und mit dem Schlüssel und der Instanz verbinden
